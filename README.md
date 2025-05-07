@@ -119,7 +119,7 @@ Check out [the FAQ][FAQ] for answers to common questions about the project.
 
 # Install
 ``` sh
-git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
+git clone --depth 1 https://github.com/AndrejRebselj/AndrejEmacs ~/.config/emacs
 ~/.config/emacs/bin/doom install
 ```
 
